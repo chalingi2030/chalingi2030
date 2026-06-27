@@ -90,6 +90,6 @@ I emphasize reproducibility, clarity, and building solutions that teams can sust
 ## Contact & connect
 
 - GitHub: https://github.com/chalingi2030
-- Email: your.email@example.com
+- Email:chalingimandela@gmail.com
 - LinkedIn: https://www.linkedin.com/in/your-profile
 - Portfolio / Reports: https://your-portfolio-or-docs.example
